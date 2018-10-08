@@ -7,6 +7,7 @@ name = "pypi"
 selenium = "*"
 python-dotenv = "*"
 pandas = "*"
+bs4 = "*"
 
 [dev-packages]
 pylint = "*"
